@@ -1,0 +1,1 @@
+This is Paulina's first git project!
